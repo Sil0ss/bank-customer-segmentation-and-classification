@@ -48,5 +48,5 @@ Senior customers with higher balances and lower spending tendencies.
 Younger customers with higher transaction activity and lower balances.
 
 ## Author
+FADHIL MUHAMMAD RIFQI
 
-Rifqi Fadhil
